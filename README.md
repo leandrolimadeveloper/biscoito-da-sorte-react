@@ -5,7 +5,7 @@ O projeto/aula faz parte do curso 'React Js do zero ao avançado na prática', d
 
 A aplicação consiste na exibição de uma frase aleatória, quando clicado em um botão. 
 
-## Para testar 
+## Testar 
 É necessário ter a biblioteca React instalada. 
 
 Documentação do React: https://pt-br.reactjs.org/docs/getting-started.html
