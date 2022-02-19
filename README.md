@@ -5,14 +5,16 @@ O projeto/aula faz parte do curso 'React Js do zero ao avançado na prática', d
 
 A aplicação consiste na exibição de uma frase aleatória, quando clicado em um botão. 
 
-## Testar 
+## Executar 
 É necessário ter a biblioteca React instalada. 
 
 Documentação do React: https://pt-br.reactjs.org/docs/getting-started.html
+
 ```
 
 $ git clone https://github.com/leandrolimadeveloper/biscoito-da-sorte-react.git 
 $ cd biscoito-da-sorte-react
+$ npm i
 $ npm start
 
 ```
